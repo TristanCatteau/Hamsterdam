@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3aca4b1dcde52c41a82273cff0fbae3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioController: {instanceID: 0}
+  - sound: {fileID: 8300000, guid: 515d5554865d3f64d970984dd4de2f29, type: 3}
+  - Camera: {instanceID: 0}
+  - Jeton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
