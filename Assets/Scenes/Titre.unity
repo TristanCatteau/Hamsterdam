@@ -2659,7 +2659,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Il \xE9tait une fois, un petit hamster qui, pour faire plaisir \xE0 sa
-    grand-m\xE9re, voulu faire son gateau d'anniversaire."
+    grand-m\xE8re, voulut faire son g\xE2teau d'anniversaire."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

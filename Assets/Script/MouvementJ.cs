@@ -157,6 +157,6 @@ public class MouvementJ : MonoBehaviour
         UnityEngine.Vector3 forwardRelativeVerticalInput = direction.x * right ;
         UnityEngine.Vector3 rightRelativeVerticalInput = direction.y * forward ;
         UnityEngine.Vector3 cameraRelativeMovement = forwardRelativeVerticalInput + rightRelativeVerticalInput;
-        CF.rbSphere.AddForce(cameraRelativeMovement*200);
+        CF.rbSphere.AddForce(cameraRelativeMovement*500);
     }
 }
