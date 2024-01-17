@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Build.Content;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -19,7 +18,7 @@ public class MenuMG1 : MonoBehaviour
         SMO.sonDefaite = false;
         SMO.boucle = true;
 
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("MiniGame1-Oeuf");
     }
 
     public void QuitLevel()
@@ -31,6 +30,6 @@ public class MenuMG1 : MonoBehaviour
         MJ.canMove = true;
         RJ.canRoll = true;
         MJ.miniJeuLaby = false;
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("Lobby");
     }
 }

@@ -15,7 +15,7 @@ public class MenuMG4 : MonoBehaviour
         RJ.canRoll = false;
         MJ.miniJeuLaby = false;
         T.currentTime = T.startingTime;
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("MiniGame4-Fruit");
     }
 
     public void QuitLevel()
@@ -25,6 +25,6 @@ public class MenuMG4 : MonoBehaviour
         RJ.canRoll = true;
         MJ.miniJeuLaby = false;
         T.currentTime = T.startingTime;
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("Lobby");
     }
 }
