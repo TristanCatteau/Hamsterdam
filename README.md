@@ -1,4 +1,4 @@
-# G-WProject
+# Hamsterdam
 It's a french 3D game made on Unity.
 The game is a beta version, it is not finalized.
 
