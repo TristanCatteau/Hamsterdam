@@ -1,5 +1,5 @@
 # Hamsterdam
-It's a french 3D game made on Unity.
+It's a French 3D game made on Unity in 2024.
 The game is a beta version, it is not finalized.
 
 You play a hamster who has to go find ingredients for his grandmother's gift.
@@ -12,6 +12,7 @@ You play a hamster who has to go find ingredients for his grandmother's gift.
 - Strength with Rigidbody
 - Sound System
 - GamePref
+  
 ### Build
 ##### Windows - 64 bit
 https://www.mediafire.com/file/maehy1vk3t550m9/Hamsterdam_64.zip/file
